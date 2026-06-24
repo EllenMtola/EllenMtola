@@ -37,8 +37,4 @@ Grow as a data professional
 ## Let's Connect
 Email: temtola1@gmail.com / ellen.mtola@ogilvy.co.za
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
-"Every dataset tells a story; my goal is to help bring that story to life."
+## "Every dataset tells a story; my goal is to help bring that story to life."
